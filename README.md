@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<h1 align="center">Web Development Tools</h1>
+<h1 align="center">FrontEnd Development Tools</h1>
 
 ###
 
@@ -52,5 +52,11 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Code-Cool-2006.Code-Cool-2006&"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Code-Cool-2006/Code-Cool-2006/output/snake.svg" alt="Snake animation" />
 
 ###
