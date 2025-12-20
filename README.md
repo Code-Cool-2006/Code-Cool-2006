@@ -3,7 +3,7 @@
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+     src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800"
     height="150"
     alt="GitHub Stats"
   />
