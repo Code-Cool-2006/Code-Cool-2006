@@ -23,7 +23,7 @@
 <div align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Code-Cool-2006&theme=dracula&title=Commit,Repositories,Followers,Stars" 
+    src="https://github-profile-trophy.vercel.app/?username=Code-Cool-2006&theme=dracula"
     alt="GitHub Trophies"
   />
 
