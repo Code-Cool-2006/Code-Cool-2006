@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### `> full-stack developer` · `> civic tech builder` · `> AI/ML explorer`
+### `> Full Stack developer` · `> GEN AI EXCHANGE HACKATHON WINNER` · `> AI/ML explorer`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=React+%7C+React+Native+%7C+Node.js;Express.js+%7C+MongoDB+%7C+NeonDB;Building+things+that+matter.;Open+to+AI+%2F+ML+collaborations.)](https://git.io/typing-svg)
 
@@ -25,14 +25,9 @@ const rishab = {
   role:       "React Developer & Full-Stack Enthusiast",
   location:   "Belagavi, Karnataka 🇮🇳",
   learning:   ["Full Stack Development", "AI/ML"],
-  collab:     "Open to AI/ML projects",
+  collab:     "Open to  Web dev and AI/ML projects",
   contact:    "rchavadar@gmail.com",
-  portfolio:  "https://portfolio-rishabc.vercel.app",
-  currentProject: {
-    name: "Samvidhan Setu",
-    desc: "A local legislature awareness app",
-    url:  "https://samvidhan-setu.vercel.app"
-  }
+  portfolio:  "https://portfolio-v2-tan-two-54.vercel.app/",
 };
 ```
 
@@ -81,7 +76,7 @@ const rishab = {
 | 🏛️ **[Samvidhan Setu](https://samvidhan-setu.vercel.app)** | Local legislature awareness platform for citizens | React, Firebase |
 | 🤖 **[Gemini ChatBot](https://github.com/Code-Cool-2006/Gemini_ChatBot)** | AI chatbot powered by Google Gemini API | React, Gemini |
 | 🌾 **[Agri-Connect](https://github.com/Code-Cool-2006/Agri-Connect)** | Farmer–buyer marketplace with real-time updates | React, Firebase |
-| 🚀 **[Gen-AI Challenge](https://github.com/Code-Cool-2006/Gen-AI-Challenge)** | National-level GenAI hackathon submission | Next.js, AI |
+| 🚀 **[Gen-AI Challenge](https://github.com/Code-Cool-2006/Gen-AI-Challenge)** | National-level GenAI hackathon submission | React.js, AI |
 | 🎨 **[Brandverse](https://github.com/Code-Cool-2006/Brandverse)** | AI-driven brand identity generator | React, AI APIs |
 
 ---
