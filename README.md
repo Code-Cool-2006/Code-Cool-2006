@@ -1,43 +1,130 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rishab Chavadar
-========================================================================================================================================
+<div align="center">
 
-React Developer
----------------
+```
+██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗
+██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗
+██████╔╝██║███████╗███████║███████║██████╔╝
+██╔══██╗██║╚════██║██╔══██║██╔══██║██╔══██╗
+██║  ██║██║███████║██║  ██║██║  ██║██████╔╝
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+```
 
-I'm a passionate and driven tech enthusiast who thrives at the intersection of innovation, problem-solving, and impact. Whether I’m building full-stack applications, exploring AI-driven solutions, or leading a team in a national-level hackathon, I bring energy, curiosity, and a builder’s mindset to every challenge.
+### `> full-stack developer` · `> civic tech builder` · `> AI/ML explorer`
 
-With hands-on experience in web development (React, Next.js, Firebase), API integration, and real-time dashboards, I specialize in converting ideas into scalable, user-friendly digital products. I’ve also explored civic tech, automation, and AI-based disaster response systems—all aimed at making meaningful change through technology.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=React+%7C+React+Native+%7C+Node.js;Express.js+%7C+MongoDB+%7C+NeonDB;Building+things+that+matter.;Open+to+AI+%2F+ML+collaborations.)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Belagavi, Karnataka
-* 🖥️  See my portfolio at [https://portfolio-rishabc.vercel.app](http://portfolio-rishabc.vercel.app)
-* ✉️  You can contact me at [rchavadar@gmail.com](mailto:rchavadar@gmail.com)
-* 🚀  I'm currently working on [A Local Legislature App](http://samvidhan-setu.vercel.app/)
-* 🧠  I'm currently learning Full Stack Developement
-* 👥  I'm looking to collaborate on AI ML Projects
+</div>
 
-### Tools
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><br>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-</p>
-<a href="https://www.github.com/Code-Cool-2006" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Code-Cool-2006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Badges
+## `whoami`
 
-<b>My GitHub Stats</b>
+```js
+const rishab = {
+  name:       "Rishab Chavadar",
+  role:       "React Developer & Full-Stack Enthusiast",
+  location:   "Belagavi, Karnataka 🇮🇳",
+  learning:   ["Full Stack Development", "AI/ML"],
+  collab:     "Open to AI/ML projects",
+  contact:    "rchavadar@gmail.com",
+  portfolio:  "https://portfolio-rishabc.vercel.app",
+  currentProject: {
+    name: "Samvidhan Setu",
+    desc: "A local legislature awareness app",
+    url:  "https://samvidhan-setu.vercel.app"
+  }
+};
+```
 
-<a href="http://www.github.com/Code-Cool-2006"><img src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Code-Cool-2006's GitHub stats" /></a>
+---
 
-<a href="https://github.com/Code-Cool-2006" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Cool-2006&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## `tech.stack()`
 
-<b>Top Repositories</b>
+<div align="center">
 
-<div width="100%" align="center"><a href="https://github.com/Code-Cool-2006/Gemini_ChatBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Cool-2006&repo=Gemini_ChatBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Code-Cool-2006/Gen-AI-Challenge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Cool-2006&repo=Gen-AI-Challenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/Code-Cool-2006/Brandverse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Cool-2006&repo=Brandverse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Code-Cool-2006/Agri-Connect" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Cool-2006&repo=Agri-Connect&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-%2300E699.svg?style=flat-square&logo=neon&logoColor=black)
+
+**Tools & Languages**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## `projects.highlight()`
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏛️ **[Samvidhan Setu](https://samvidhan-setu.vercel.app)** | Local legislature awareness platform for citizens | React, Firebase |
+| 🤖 **[Gemini ChatBot](https://github.com/Code-Cool-2006/Gemini_ChatBot)** | AI chatbot powered by Google Gemini API | React, Gemini |
+| 🌾 **[Agri-Connect](https://github.com/Code-Cool-2006/Agri-Connect)** | Farmer–buyer marketplace with real-time updates | React, Firebase |
+| 🚀 **[Gen-AI Challenge](https://github.com/Code-Cool-2006/Gen-AI-Challenge)** | National-level GenAI hackathon submission | Next.js, AI |
+| 🎨 **[Brandverse](https://github.com/Code-Cool-2006/Brandverse)** | AI-driven brand identity generator | React, AI APIs |
+
+---
+
+## `git.stats()`
+
+<div align="center">
+
+<a href="http://www.github.com/Code-Cool-2006">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Code-Cool-2006">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Cool-2006&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
+</a>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Cool-2006&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `connect.with(me)`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rishabc.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Cool-2006)
+[![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rchavadar@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// currently building: samvidhan-setu.vercel.app
+// open to: AI/ML collabs, full-stack projects, hackathons
+// status: always_learning = true
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Code-Cool-2006&color=0891b2&style=flat-square&label=profile+views)
+
+</div>
