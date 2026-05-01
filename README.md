@@ -32,6 +32,29 @@ const rishab = {
 ```
 
 ---
+## `git.stats()`
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Code-Cool-2006&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<a href="http://www.github.com/Code-Cool-2006">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Code-Cool-2006">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Cool-2006&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
+</a>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Cool-2006&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+
+---
 
 ## `tech.stack()`
 
@@ -81,30 +104,12 @@ const rishab = {
 
 ---
 
-## `git.stats()`
-
-<div align="center">
-
-<a href="http://www.github.com/Code-Cool-2006">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Code-Cool-2006&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/Code-Cool-2006">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Cool-2006&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
-</a>
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Cool-2006&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## `connect.with(me)`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rishabc.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v2-tan-two-54.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Cool-2006)
 [![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rchavadar@gmail.com)
 
